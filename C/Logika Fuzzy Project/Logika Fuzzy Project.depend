@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1686544381 source:c:\users\asus\onedrive\documents\code\logika fuzzy project\main.c
+	<stdio.h>
+	<stdlib.h>
+

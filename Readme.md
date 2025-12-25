@@ -1,0 +1,1 @@
+Link pdf Fuzzy (PERANCANGAN PROGRAM PEMBUAT KEPUTUSAN HARGA LAPTOP MENGGUNAKAN LOGIKA FUZZY TSUKAMOTO DAN PROGRAM BAHASA C) : https://www.linkedin.com/in/anton-wijaya-/details/projects/1635553073445/single-media-viewer/?profileId=ACoAAD8nepgBhHo5imRuina_Af4FVFSY-UQEA3g 
