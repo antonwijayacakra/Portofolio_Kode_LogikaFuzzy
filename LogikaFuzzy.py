@@ -1,0 +1,1 @@
+print("Ini adalah file LogikaFuzzy.py yang kosong.")
